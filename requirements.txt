@@ -9,3 +9,4 @@ scikit-learn
 pypdf
 openpyxl
 statsmodels
+difflib
